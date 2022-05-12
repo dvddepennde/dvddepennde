@@ -13,4 +13,4 @@ In the professional field, right now, I'm focusing learning:
 
 If you want to know more about me, visit my profile on:
 
-### 📩 [LinkedIn](https://www.linkedin.com/in/david-bernabeu-676036214)
+#### 📩 [LinkedIn](https://www.linkedin.com/in/david-bernabeu-676036214)
