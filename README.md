@@ -5,11 +5,11 @@ I'm David Bernabeu and I'm a **Software Engineer** Stundent in the [Alicante Uni
 Right now, I'm focusing in keep growing myself in the professional and personal field. 
   
 In the professional field, right now, I'm focusing learning:
-- Python
-- C++
-- Java
-- MySQL and MongoDB
-- Amazon Web Services
+- Python.
+- C++.
+- Java.
+- MySQL and MongoDB.
+- Amazon Web Services.
  
 Moreover, about my experiences:
 - [Inventii Services](https://iinventi.com/) (4 months)
