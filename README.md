@@ -18,7 +18,7 @@ Finally, about my interest, I'm very interested in:
 - Big data.
 - Data Science.
 - Microservices.
-- Cloud (AWS, GCLOUD and Azure).
+- Cloud (AWS, GCloud and Azure).
 
 
 if you want to know more about me, try to check my LinkedIn account, and don't be shy to send me a message!!.
