@@ -1,4 +1,4 @@
-<h2 align="center">Hey, I'm David Bernabeu<h2>
+<h2 align="center">Hey, I'm David Bernabeu</h2>
 
 I'm David Bernabeu and I'm a **Software Engineer** Stundent in the [Alicante Univeristy](https://www.ua.es/).
 
