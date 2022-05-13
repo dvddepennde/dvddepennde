@@ -3,6 +3,7 @@
 I'm David Bernabeu and I'm a **Software Engineer** Stundent in the [Alicante Univeristy](https://www.ua.es/), and probably next year I will graduate.
 Right now, I'm focusing in keep growing myself in the professional and personal field. 
   
+-  ![](https://komarev.com/ghpvc/?username=dvddepennde&color=684dac )
 In the professional field, right now, I'm focusing learning:
 - Python.
 - C++.
