@@ -5,9 +5,6 @@ Right now, I'm focusing in keep growing myself in the professional and personal 
 
 Moreover, this is my GitHub repo, so yoy will find personal and universitary related projects.
   
--  ![](https://komarev.com/ghpvc/?username=dvddepennde&color=684dac)
-
-
 In the professional field, right now, I'm focusing learning:
 - Python.
 - C++.
