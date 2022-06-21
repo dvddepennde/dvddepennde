@@ -1,6 +1,6 @@
 <h2 align="center">Hey, I'm David Bernabeu</h2>
 
-I'm David Bernabeu and I'm a **Software Engineer** Stundent in the [Alicante Univeristy](https://www.ua.es/), and probably next year I will graduate.
+I'm David Bernabeu and I'm a **Software Engineer** Stundent in the [Alicante Univerisity](https://www.ua.es/), and probably next year I will graduate.
 Right now, I'm focusing in keep growing myself in the professional and personal field.
 
 Moreover, this is my GitHub repo, so yoy will find personal and universitary related projects.
