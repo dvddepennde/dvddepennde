@@ -13,8 +13,8 @@ In the professional field, right now, I'm focusing learning:
 - Amazon Web Services.
  
 Moreover, about my past experiences:
-- Cloud Levante (2 years)
-- [NTT Data] (7 months)
+- [Cloud Levante](https://cloudlevante.com/es/) (2 years)
+- [NTT Data](https://www.nttdata.com/global/en/) (7 months)
 - [Inventii Services](https://iinventi.com/) (4 months)
 
 
